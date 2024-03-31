@@ -1,6 +1,6 @@
 Portfolio Project for CS 493: Cloud Application Development
 
-In this cloud-based database management project, multiple entities were modelled: Ships, loads, and ship owners.
+In this cloud-based database management project, multiple entities were modelled: Ships, loads, and a user entity (ship owners).
 The goal was to manage entities that relate to each other in different ways. Ships can carry multiple loads, and each load contains
 a record of the ship on which it is carried (if it is currently on a ship at all). 
 Meanwhile, ships are owned by one and only one owner at a time. Both the ship owner
